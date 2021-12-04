@@ -29,5 +29,5 @@ public class MainActivity {
 //test end
     }
     //
-   static void gf(char[][] a){PrintField.view(a);}//синтаксический сахар
+   static void gf(char[][] a){PrintField.view(a);}//синтаксический сахар для вывода на печать
 }
