@@ -4,6 +4,7 @@ public class MainActivity {
     private Field f;
 
     public static void main(String[] args) {
+        Run.run();
 //test
         Field f = new Field();
         f.initial();
