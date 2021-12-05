@@ -1,6 +1,6 @@
 package alx.rogatko.mainActivity;
 
-public class PrintField {
+public class PrintField {//просто печатаем игровое поле статическим методом
    static void view(char[][] array){
 
         System.out.print("   A B C D E F J H I J");

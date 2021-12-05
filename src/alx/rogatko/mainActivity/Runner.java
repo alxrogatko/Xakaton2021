@@ -1,7 +1,7 @@
 package alx.rogatko.mainActivity;
 
 public class Runner {
-    public static void shot(char a, int b, Field f) {
+    public static void shot(char a, int b, Field f) {//отправляем букву клетки, цифру и класс с полем для выстрела
 
         int a1;
         a1 = (int) (a) - 65;
